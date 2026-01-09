@@ -1,5 +1,10 @@
 # ODAQ: Open Dataset of Audio Quality
 
+
+## Latest News
+- 2026.01: new contribution to ODAQ is available. For a complete list of contributions, see the [contributions table](./extend/README.md#list-of-contributions-latest-update-202510).
+
+## Introduction
 [id]:https://arxiv.org/abs/2401.00197
 
 ODAQ is a dataset addressing the scarcity of openly available collections of audio signals accompanied by corresponding subjective scores of perceived quality.

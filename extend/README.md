@@ -14,10 +14,11 @@ To make a contribution, you could follow the steps described below:
 2) Add a new entry to the table below and make a PR to this repository
 3) Or alternatively, you could reach out to the authors with the information of your contribution -- we will update the table on your behalf
 
-## List of contributions (Latest update: 2024.09)
-|  Date   | Paper/contribution Title            | hasAudioMaterial | hasSubjectiveScores |                  Link                  |
-|:-------:|:-----------------------------------:|:----------------:|:-------------------:|:--------------------------------------:|
-| 2023.12 | ODAQ: Open Dataset of Audio Quality | True             | True                | https://doi.org/10.5281/zenodo.10405774 |
-| 2024.09 | Expanding and Analyzing ODAQ – the Open Dataset of Audio Quality | False | True | https://doi.org/10.5281/zenodo.13377284|
+## List of contributions (Latest update: 2025.10)
+|  Date   |                                                              Paper/contribution Title                                                              | hasAudioMaterial | hasSubjectiveScores |                  Link                  |
+|:-------:|:--------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------:|:-------------------:|:--------------------------------------:|
+| 2023.12 |                                      [ODAQ: Open Dataset of Audio Quality](https://arxiv.org/abs/2401.00197)                                       |       True       |        True         |https://doi.org/10.5281/zenodo.10405774 |
+| 2024.09 |                        [Expanding and Analyzing ODAQ – the Open Dataset of Audio Quality](https://arxiv.org/abs/2504.00742)                        |      False       |        True         |https://doi.org/10.5281/zenodo.13377284 |
+| 2025.10 | [Investigating the impact of stereo processing - A study for extending the Open Dataset of Audio Quality (ODAQ)](https://arxiv.org/abs/2512.14259) |       True       |        True         |https://doi.org/10.5281/zenodo.17162670 |
 
 
